@@ -13,9 +13,10 @@ A lightweight Python command-line tool designed to audit file servers for expose
 - **Libraries:** `requests`, `argparse`, `json`
 
 ## How to Run
+
 ## How to Run
 
-1. Clone the repository and install the required Python libraries:
+1. Clone the repository and install dependencies:
    ```bash
    # Download the project folder to your computer
    git clone [https://github.com/Rohanxrajput/file-server-security-auditor.git](https://github.com/Rohanxrajput/file-server-security-auditor.git)
@@ -23,7 +24,7 @@ A lightweight Python command-line tool designed to audit file servers for expose
    # Move inside the project folder
    cd file-server-security-auditor
 
-   # Install the necessary dependencies (like requests)
+   # Install the necessary dependencies
    pip install -r requirements.txt
 
    
