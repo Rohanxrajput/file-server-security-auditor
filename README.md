@@ -18,12 +18,15 @@ A lightweight Python command-line tool designed to audit file servers for expose
 1. Clone the repository and install dependencies:
    ```bash
    # Download the project folder to your computer
-   git clone [https://github.com/Rohanxrajput/file-server-security-auditor.git](https://github.com/Rohanxrajput/file-server-security-auditor.git)
+   git clone https://github.com/Rohanxrajput/file-server-security-auditor.git
 
    # Move inside the project folder
    cd file-server-security-auditor
 
    # Install the necessary dependencies
    pip install -r requirements.txt
+
+2. Replace the example URL with your target website or local server
+python auditor.py --url http://your-target-url.com
 
    
