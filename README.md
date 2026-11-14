@@ -16,3 +16,11 @@ A lightweight Python command-line tool designed to audit file servers for expose
 1. Install dependencies:
    ```bash
    pip install requests
+
+
+   ```bash
+   git clone [https://github.com/Rohanxrajput/file-server-security-auditor.git](https://github.com/Rohanxrajput/file-server-security-auditor.git)
+   cd file-server-security-auditor
+   pip install -r requirements.txt
+
+   
