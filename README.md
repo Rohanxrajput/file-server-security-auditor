@@ -14,7 +14,6 @@ A lightweight Python command-line tool designed to audit file servers for expose
 
 ## How to Run
 
-## How to Run
 
 1. Clone the repository and install dependencies:
    ```bash
